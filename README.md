@@ -30,9 +30,9 @@ Steps:
 
 
 
-OUTPUT FORMAT:
+##OUTPUT FORMAT:
 
-		Youtube popularity score for the month of December for three differnet brands 
+	Youtube popularity score for the month of December for three differnet brands 
 
          	brand  dislike   likes       views         total  popularity percentage  Channel
 	0         dove   8367.0   11017  2822563337  2.822566e+09              64.190617  youtube
