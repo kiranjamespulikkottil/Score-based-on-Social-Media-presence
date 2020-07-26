@@ -30,7 +30,7 @@ Steps:
 
 
 
-##OUTPUT FORMAT:
+#OUTPUT FORMAT:
 
 	Youtube popularity score for the month of December for three differnet brands 
 
